@@ -21,4 +21,4 @@ A challenge I faced when trying to display the information was that the line gra
 ---
 Based on the **Outcomes Based on Launch Date** line graph, we can conclude that the best month to launch a new Kickstarter trying to fund a play in the US would be May. In the month of May, we had the most ***successful*** Kickstarters for new plays. We can also conclude that one should try to avoid launching a new play in the time around October. That was when we saw the most ***failed*** Kickstarters for new plays.
 
-When it comes to the **Outcomes Based on Goals** line graph, we can conclude that it is best to set a goal between
+When it comes to the **Outcomes Based on Goals** line graph, we can conclude that it is best to set a goal between gaioagna
