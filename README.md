@@ -20,7 +20,7 @@ A challenge I faced when trying to display the information was that the line gra
 ## Results
 Based on the **Outcomes Based on Launch Date** line graph, we can conclude that the best month to launch a new Kickstarter trying to fund a play in the US would be May. In the month of May, we had the most ***successful*** Kickstarters for new plays. We can also conclude that one should try to avoid launching a new play in the time around October. That was when we saw the most ***failed*** Kickstarters for new plays.
 
-When it comes to the **Outcomes Based on Goals** line graph, we can conclude that it is best to set a goal that's less than $5,000 or a goal between $35,000 and $45,000 in order to reach said goal. The Kickstarter campaigns that had goals in those parameters were more likely to achieve that goal.
+When it comes to the **Outcomes Based on Goals** line graph, we can conclude that it is best to set a goal that's less than $5,000 or a goal between $35,000 and $45,000 in order to reach said goal. The Kickstarter campaigns that had goals in those parameters were more likely to achieve their goals.
 
 These two graphs give us a good view at seeing when it would be best to launch a new Kickstarter for a play to get fully funded and what goals we should set in order to achieve them, however, those are not the only two things that contribute to the success of a new campaign. One limitation of this dataset is that we don't know how people are finding the crowdfunding pages. If we knew that, we could see what areas of marketing were most successful in the past and suggest to Louise to use those avenues to give herself a better chance of achieving the goal that she set for her Kickstarter campaign.
 
