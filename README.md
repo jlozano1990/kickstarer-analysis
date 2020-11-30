@@ -7,3 +7,5 @@ The purpose of this project is to visualize Kickstarter outcomes based on their 
 ### Analysis of Outcomes Based on Launch Date
 ---
 This analysis was performed by looking at the outcomes of Kickstarter campaigns that fell under the theater category. A PivotChart was created to filter the Kickstarter data by looking at the theater campaigns and whether they were successful, failed, or were canceled over a number of years. This is displayed in the form of a line chart with markers. This was done to visualize trends in terms of what months tend to have the most successful theater campaigns.
+---
+![Seeing if this works](https://github.com/jlozano1990/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Dates.png)
