@@ -14,7 +14,7 @@ There was not very much challenge when it came to analyzing this dataset or disp
 ### Analysis of Outcomes Based on Goals
 ---
 This analysis was performed by looking at what goals Kickstarter campaigns had set for themselves and seeing what percentage of campaigns achieved that goal and what percentage of campaigns did not. A PivotChart was created to display the percentage of successful campaigns and compare them to the percentage of failed campaigns in the theater subcategory of campaigns. This was displayed in the form of a line graph.
-![Outcomes Based on Goals](https://github.com/jlozano1990/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes Based on Goals](https://github.com/jlozano1990/kickstarter-analysis/blob/main/Outcomes_vs_Goals_Fix.png)
 ### Challenges and Difficulties encountered
 A challenge I faced when trying to display the information was that the line graph was displaying incorrectly for me. The problem was I hadn't properly organized how I wanted Excel to show the information, so the <1000 category was somewhere in the middle, and the rest of the categories were not displaying properly because of that. Once I realized the issue, I organized it the way it should've been organized.
 ## Results
